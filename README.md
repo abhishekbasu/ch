@@ -1,0 +1,2 @@
+# ch
+ Clean shell history.
